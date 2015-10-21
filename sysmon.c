@@ -5,7 +5,7 @@
 * add shadow count index
 *
 * Modifications@20150130 recover from an unknown problem. This version works well.
-* 
+* By Lei Liu, Hao Yang, Mengyao Xie, Yong Li, Mingjie Xing
 */
 
 #include <linux/module.h>
