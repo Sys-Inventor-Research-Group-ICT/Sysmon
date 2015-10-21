@@ -57,7 +57,7 @@ dmesg
 ```
 
 You should see output like the following from `dmesg`:
-<img src="sysmon_dmesg.jpg"></img>
+![sysmon_dmesg](https://github.com/Sys-Inventor-Research-Group-ICT/Markdown/raw/master/Res/sysmon_dmesg.jpg)
 
 Troubleshooting
 ---------------
