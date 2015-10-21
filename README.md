@@ -16,9 +16,9 @@ Release Overview
 * sysmon.c
 recording situations of hot pages and cold pages, including:
 
-(1) the accessing frequency of each hot page of every iteration.
+  (1) the accessing frequency of each hot page of every iteration.
 
-(2) the accessing frequency of each physical page of every iteration.
+  (2) the accessing frequency of each physical page of every iteration.
 * sysmon_random.c
 recording situations of hot pages and cold pages with the method of random sampling, including:
 (1) the accessing frequency of each hot page of every iteration.
