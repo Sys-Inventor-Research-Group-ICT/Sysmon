@@ -55,7 +55,8 @@ Output
 ```
 dmesg
 ```
-
+You should see output like the following from `dmesg`:
+![sysmon_dmesg](https://raw.githubusercontent.com/Sys-Inventor-Research-Group-ICT/sss/master/sysmon_dmesg.jpg)
 
 Troubleshooting
 ---------------
