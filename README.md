@@ -21,13 +21,16 @@ recording situations of hot pages and cold pages, including:
   (2) the accessing frequency of each physical page of every iteration.
 * sysmon_random.c
 recording situations of hot pages and cold pages with the method of random sampling, including:
-(1) the accessing frequency of each hot page of every iteration.
-(2) the accessing frequency of each physical page of every iteration.
-(3) the prediction of the total number of hot pages and LLC demand.
+
+  (1) the accessing frequency of each hot page of every iteration.
+  
+  (2) the accessing frequency of each physical page of every iteration.
+  
+  (3) the prediction of the total number of hot pages and LLC demand.
 * sysmon_reuse_distance.c
-based on sysmon.c, add: recording the reuse distance of one page in some loops.
+  based on sysmon.c, add: recording the reuse distance of one page in some loops.
 * sysmon_reuse_distance.c
-based on sysmon_random.c add: recording the reuse distance of one page in some loops with the method of random sampling.
+  based on sysmon_random.c add: recording the reuse distance of one page in some loops with the method of random sampling.
 
 Instructions
 ------------
