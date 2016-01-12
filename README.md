@@ -48,8 +48,7 @@ obj-m += sysmon_random_reuse_distance.o
 
 Build the module
 ```
-make -C /home/liulei/linux-2.6.32.bak M=$PWD modules
-/home/liulei/linux-2.6.32.bak is kernel directory.
+make
 ```
 
 Insert the module into kernel
