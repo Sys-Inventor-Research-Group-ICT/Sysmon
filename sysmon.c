@@ -38,7 +38,7 @@
 /* Adjust these constants as required */
 #define ITERATIONS 200 /* the number of sampling loops */
 #define PAGE_ALL 300000 /* the total number of pages */
-#define TIME_INTERVAL 5 /* the total number of pages */
+#define TIME_INTERVAL 5
 /* the constants below denote the different ranges of the page number */
 #define VH 200 /* VH means very high*/
 #define H 150 /* H means high*/
