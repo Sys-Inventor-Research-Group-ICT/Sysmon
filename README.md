@@ -32,7 +32,7 @@ Release Overview
 * sysmon_reuse_distance.c
 
   based on sysmon.c, add: recording the reuse distance of one page in some loops.
-* sysmon_reuse_distance.c
+* sysmon_random_reuse_distance.c
 
   based on sysmon_random.c add: recording the reuse distance of one page in some loops with the method of random sampling.
 
